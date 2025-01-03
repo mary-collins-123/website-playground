@@ -784,7 +784,7 @@
 .home-text50 {
   color: var(--dl-color-scheme-brown);
   font-style: normal;
-  text-align: center;
+  text-align: left;
   font-weight: 700;
   margin-bottom: 4px;
   letter-spacing: 0.1em;
